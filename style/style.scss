@@ -1,0 +1,12 @@
+* {
+  list-style-type: none;
+}
+#list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 20px;
+}
+.div {
+  margin-bottom: 20px;
+}
